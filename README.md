@@ -1,10 +1,10 @@
 # ann_minor
-<b>Minor Project on Artificial Neural Networks</b>
+<h2>Minor Project on Artificial Neural Networks</h2>
 <br><br>
-The Project aims to perform classification operation on the standard dataset which has been retrieved from the UCI Machine Learning Repository:<br>
+The Project aims to perform classification operation on the standard dataset which has been retrieved from the <b>UCI Machine Learning Repository:</b><br>
 http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29
 <br>
-The Project makes use of PyBrain Python module specifically focussed on Artificial Neural Networks:<br>
+The Project makes use of <b>PyBrain</b> Python module specifically focussed on Artificial Neural Networks:<br>
 http://pybrain.org/docs/index.html
 <br><br>
 The Project consists of the following major components:<br>
